@@ -1,4 +1,4 @@
-# Hi 👋, I'm Riya Singla
+# Hi 👋, I'm Riya
 
 ### 🎓 B.Tech CSE (AI & ML) Student at Lovely Professional University (LPU)
 
@@ -70,8 +70,8 @@ To begin my career as a **Data Analyst**, applying data-driven solutions to solv
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-- 📧 Email: *(Add your professional email here)*
+- 💼 LinkedIn: linkedin.com/in/riya-singla-7abb0141a
+- 📧 Email: riyasingla00001@gmail.com
 
 ---
 
