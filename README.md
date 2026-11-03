@@ -2,8 +2,7 @@
 
 ### 🎓 B.Tech CSE (AI & ML) Student at Lovely Professional University (LPU)
 
-💡 **Aspiring Data Analyst** passionate about transforming data into meaningful insights through analytics, visualization, and machine learning.
-
+💡 **💡 Aspiring AI/ML Engineer passionate about building intelligent solutions using Python, Machine Learning, and Artificial Intelligence.
 ---
 
 ## 👩‍💻 About Me
@@ -64,7 +63,7 @@
 
 ## 🎯 Career Goal
 
-To begin my career as a **Data Analyst**, applying data-driven solutions to solve business problems while continuously learning and growing in the fields of Analytics and Artificial Intelligence.
+To become an AI/ML Engineer by developing strong foundations in programming, mathematics, machine learning, deep learning, and practical AI applications.
 
 ---
 
